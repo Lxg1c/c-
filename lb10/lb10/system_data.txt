@@ -1,0 +1,7 @@
+Student Nick 1 1 101
+Teacher Ms. Brown 2 3 Computer Science
+Administrator Mr. Smith 3 5 admin123
+Resource Classroom 101 1
+Resource Computer Lab 3
+Resource Main Library 2
+Resource Server Room 5

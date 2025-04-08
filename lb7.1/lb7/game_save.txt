@@ -1,0 +1,2 @@
+Hero 100 1
+Villain 50 2

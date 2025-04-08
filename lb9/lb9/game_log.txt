@@ -1,0 +1,43 @@
+Hero attacks Skeleton for 17 damage!
+Skeleton attacks Hero for 5 damage!
+Hero heals for 20 HP!
+Hero leveled up to level 2!
+Hero attacks Bone Warrior for 15 damage!
+Bone Warrior attacks Hero for 5 damage!
+Hero heals for 20 HP!
+Hero leveled up to level 2!
+Hero attacks Bone Warrior for 15 damage!
+Bone Warrior attacks Hero for 5 damage!
+Hero heals for 20 HP!
+Hero leveled up to level 2!
+Hero attacks Bone Warrior for 15 damage!
+Bone Warrior attacks Hero for 5 damage!
+Hero heals for 20 HP!
+Hero leveled up to level 2!
+2025-03-25 19:12:33 - Hero attacks Bone Warrior for 15 damage!
+2025-03-25 19:12:33 - Bone Warrior attacks Hero for 5 damage!
+2025-03-25 19:12:33 - Hero heals for 0 HP!
+2025-03-25 19:12:33 - Game session ended
+2025-03-25 19:14:28 - === Game session started ===
+2025-03-25 19:14:28 - Player created: Sir Lancelot
+2025-03-25 19:14:28 - Enemies spawned: Bony, Rusty, Dragon
+2025-03-25 19:14:28 - Items added to inventory
+2025-03-25 19:14:28 - Sir Lancelot attacks Bony for 17 damage!
+2025-03-25 19:14:28 - Bony attacks Sir Lancelot, but it has no effect!
+2025-03-25 19:14:28 - Sir Lancelot attacks Bony for 17 damage!
+2025-03-25 19:14:28 - Sir Lancelot attacks Rusty for 18 damage!
+2025-03-25 19:14:28 - Rusty attacks Sir Lancelot, but it has no effect!
+2025-03-25 19:14:28 - Sir Lancelot attacks Rusty for 18 damage!
+2025-03-25 19:14:28 - Sir Lancelot leveled up to level 2!
+2025-03-25 19:14:28 - Sir Lancelot attacks Dragon for 17 damage!
+2025-03-25 19:14:28 - Dragon attacks Sir Lancelot for 24 damage!
+2025-03-25 19:14:28 - Sir Lancelot attacks Dragon for 17 damage!
+2025-03-25 19:14:28 - Dragon attacks Sir Lancelot for 24 damage!
+2025-03-25 19:14:28 - Sir Lancelot attacks Dragon for 17 damage!
+2025-03-25 19:14:28 - Dragon attacks Sir Lancelot for 24 damage!
+2025-03-25 19:14:28 - Game saved
+2025-03-25 19:14:28 - Sir Lancelot heals for -72 HP!
+2025-03-25 19:14:28 - Sir Lancelot leveled up to level 2!
+2025-03-25 19:14:28 - Exception: Item not found: Nonexistent Item
+2025-03-25 19:14:28 - === Game session ended ===
+
